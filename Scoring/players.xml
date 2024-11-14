@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persistentplayerdata>
+  <player platform="EOS" userid="0002caab514f487e9e6ac3433b96e202" nativeplatform="Steam" nativeuserid="76561198032753709" playername="Buldozer" lastlogin="2024-11-13 22:51:14" position="1021,39,-893">
+    <acl platform="EOS" userid="0002c87876b343e6a838e726cf0d724c" />
+    <acl platform="EOS" userid="000226b2fc7346eda2e6992a8204f732" />
+    <bedroll pos="1016,35,-895" />
+  </player>
+  <player platform="EOS" userid="0002c87876b343e6a838e726cf0d724c" nativeplatform="Steam" nativeuserid="76561199154727508" playername="verdozzzzz" lastlogin="2024-11-13 22:50:48" position="1023,39,-892">
+    <acl platform="EOS" userid="0002caab514f487e9e6ac3433b96e202" />
+    <acl platform="EOS" userid="000226b2fc7346eda2e6992a8204f732" />
+    <lpblock pos="1019,35,-903" />
+    <bedroll pos="1016,35,-896" />
+  </player>
+  <player platform="EOS" userid="000226b2fc7346eda2e6992a8204f732" nativeplatform="Steam" nativeuserid="76561198050025200" playername="cryptocat" lastlogin="2024-11-13 22:51:14" position="1022,40,-896">
+    <acl platform="EOS" userid="0002c87876b343e6a838e726cf0d724c" />
+    <acl platform="EOS" userid="0002caab514f487e9e6ac3433b96e202" />
+    <bedroll pos="1016,35,-894" />
+  </player>
+</persistentplayerdata>
